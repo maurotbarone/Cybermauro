@@ -1,6 +1,6 @@
 ---
 title: "Git Basics"
-date: 2025-06-01T15:34:30-04:00
+date: 2025-06-01
 categories:
   - blog
 tags:
